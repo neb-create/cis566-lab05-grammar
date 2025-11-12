@@ -1,4 +1,12 @@
-# lab04-grammars
+# L-System Lab Submission - Nico Kong
+
+ - Page still WIP -
+
+![](l1.png)
+![](l2.png)
+![](l3.png)
+
+# Assignment Description
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
 
 ## 1. Wheat grammar puzzle
