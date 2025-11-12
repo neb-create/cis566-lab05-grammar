@@ -2,7 +2,7 @@
 
 ## Grammar 1
 
-Solution: <code>F = FF[-FF]F[-FF]FF-<\code>
+Solution: <code>F = FF[-FF]F[-FF]FF-</code>
 
 ![](l1.png)
 
