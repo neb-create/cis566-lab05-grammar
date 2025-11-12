@@ -8,7 +8,7 @@ Solution: <code>F = FF[-FF]F[-FF]FF-</code>
 
 ## Grammar 2
 
-Solution: 
+Solution: <code>F = F+F-F-F+F</code>
 
 ![](l2.png)
 
