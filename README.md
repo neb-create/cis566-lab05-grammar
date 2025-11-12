@@ -14,9 +14,18 @@ Solution: <code>F = F+F-F-F+F</code>
 
 ## Custom Plant
 
-Grammar: 
+Result:
 
 ![](l3.png)
+
+Grammar:
+
+![](l4.png)
+
+Reference:
+
+![](plant.png)
+
 
 # Assignment Description
 Let's practice using grammars! For this lab, please pull up the L-system node in Houdini.
