@@ -1,9 +1,21 @@
 # L-System Lab Submission - Nico Kong
 
- - Page still WIP -
+## Grammar 1
+
+Solution: F = FF[-FF]F[-FF]FF-
 
 ![](l1.png)
+
+## Grammar 2
+
+Solution: 
+
 ![](l2.png)
+
+## Custom Plant
+
+Grammar: 
+
 ![](l3.png)
 
 # Assignment Description
