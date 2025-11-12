@@ -12,7 +12,7 @@ Solution: <code>F = F+F-F-F+F</code>
 
 ![](l2.png)
 
-## Custom Plant
+## Custom Plant: Bonzai Tree
 
 Result:
 
@@ -21,6 +21,11 @@ Result:
 Grammar:
 
 ![](l4.png)
+
+Where:
+- Rule 1 draws the left curve and creates a left branch
+- Rule 2 draws the right curve and creates aright branch
+- Rule 3 makes each branch grow bigger locally
 
 Reference:
 
